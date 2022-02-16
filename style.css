@@ -1,11 +1,11 @@
  @font-face {
     font-family: 'Arcade';
-    src: url('fonts/ARCADE_R.ttf')
+    src: url('fonts/ARCADE_R.TTF')
 }
 
  @font-face {
     font-family: 'Arcade_Normal';
-    src: url('fonts/ARCADE_N.ttf')
+    src: url('fonts/ARCADE_N.TTF')
 }
 
 *{
